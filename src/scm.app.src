@@ -1,6 +1,6 @@
 {application, scm,
  [
-  {description, "SCM: Supply Chain Management"},
+  {description, "SCM Supply Chain Management"},
   {vsn, "0.2"},
   {registered, []},
   {applications, [kernel,stdlib]},

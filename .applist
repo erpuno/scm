@@ -1,1 +1,1 @@
-[kernel,stdlib,mnesia,kvs,scm]
+[kernel,stdlib,mnesia,kvs,syn,kvx,bpe,erp,scm]

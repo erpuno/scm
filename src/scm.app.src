@@ -3,7 +3,7 @@
   {description, "SCM Supply Chain Management"},
   {vsn, "0.2"},
   {registered, []},
-  {applications, [kernel,stdlib, kvx, erp, bpe]},
+  {applications, [kernel,stdlib, kvs, erp, bpe]},
   {mod, { scm, []}},
   {env, []}
  ]}.
